@@ -1,7 +1,7 @@
 # FadingAnimationsDemo
 Android (Java) - Fading Animations Demo
 
-App created in Android Studio 3.5.3 using Java, Android Deployment Target 19 and tested on a Nexus 5X API 29 Emulator
+App created in Android Studio 3.5.3 using Java, Android Deployment Target API 19: Android 4.4(KitKat) and tested on a Nexus 5X API 29 Emulator
 
 In this demo app we demonstrate how to code a Fading Animation Demo App.
 
